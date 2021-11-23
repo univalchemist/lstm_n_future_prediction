@@ -1,0 +1,9 @@
+wheel
+sklearn
+tensorflow
+matplotlib
+numpy
+pandas
+# For yahoo_fin, it requires pyparsing is greater than 2 and less than 3
+pyparsing==2.4.7 
+yahoo_fin
